@@ -1,2 +1,2 @@
 # Resume_Matcher
-Resume Matcher
+ML model which compares the how much a resume matches to a given Job description.To perform this the model uses cosine similarity.
